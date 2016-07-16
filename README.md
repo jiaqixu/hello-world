@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi all, 
+This is an example to make difference between readme-edits and master
